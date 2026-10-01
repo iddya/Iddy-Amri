@@ -1,4 +1,4 @@
-<h1 align="center">𝐈𝐒𝐀𝐀𝐂 𝐁𝐎𝐓</h1>
+iddybot<h1 align="center">𝐈𝐒𝐀𝐀𝐂 𝐁𝐎𝐓</h1>
 
 <p align="center">
   <img
